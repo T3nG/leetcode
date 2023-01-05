@@ -85,6 +85,7 @@ class Solution6:
         return triplets
 
 
+# ref: https://medium.com/jacky-life/leetcode-3sum-bb1deec8ba31
 class Solution7:
     @staticmethod
     def three_sum(nums):
