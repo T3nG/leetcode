@@ -126,7 +126,6 @@ class Solution7:
 
 
 # ref: https://leetcode.com/problems/3sum/discuss/3109452/C%2B%2B-Easiest-Beginner-friendly-Sol-oror-Set-%2B-Two-Pointer-Approach-oror-O(n2)-time-and-O(n)-space
-
 class Solution8:
     @staticmethod
     def three_sum(nums):
